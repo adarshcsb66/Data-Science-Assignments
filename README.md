@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Data-Science-Assignments
 The assignments given in the Data Science course,involving the use of various python libraries like Scikit-learn,matplotlib etc.  
 In all the assignments,exploratory data analysis and visualisation was done.  
 The performance of the models were measured using their accuracy,classification report,confusion matrix e.t.c
